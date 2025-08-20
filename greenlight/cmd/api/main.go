@@ -18,5 +18,6 @@ type application struct {
 }
 
 func main() {
-	fmt.Println("Hello, Shahzad!")
+	var counter int
+	fmt.Printf("Hello, Shahzad!", counter)
 }
